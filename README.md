@@ -14,7 +14,7 @@ Feel free to take this design to the next level for your purposes. </p>
 
 <p>The wheels I used are cheap 10" cart wheels from Harbor Freight, but any 1/2" diameter axle wheel can be used.  Obviously the larger the diameter the easier the wheelchair can traverse obstacles.</p>
 
-(I used some unknown tubing that I already had).  I purchased 10mm ID, EVA foam tube padding from Amazon.  
+The sling is made from vinyl tubing with a 1/4" ID, (I used some unknown tubing that I already had so this may not be the exact size).  I purchased 10mm ID, EVA foam tube padding from Amazon. 
 To create the middle of the sling I use a hiking sock cut in half.  Obviously, this could be improved.</p>
 <p>Additionally, you'll need a harness that fits your dog to clamp the buckle brackets to.  This is the harness I used: https://www.amazon.com/tobeDRI-Harness-Adjustable-Reflective-Control/dp/B086PCQ3HQ/?th=1</p>
 
