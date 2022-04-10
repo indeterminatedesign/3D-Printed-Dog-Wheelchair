@@ -1,6 +1,6 @@
 <h1>3D Printed Dog Wheelchair</h1>
-The construction is a bit unrefined given this was a version 1, and as such is not beginner project as it requires intermediate fabrication skills at a minimum. 
-Feel free to take this design to the next level for your purposes. 
+<p>The construction is a bit unrefined given this was a version 1, and as such is not beginner project as it requires intermediate fabrication skills at a minimum. 
+Feel free to take this design to the next level for your purposes. </p>
 <p>The wheelchair is made from mostly 3d printed parts and uses 1/2" EMT conduit for its main structure. I've tested the wheelchair with a 65lbs dog and found no issues, but obviously your mileage may vary. </p>
 
 <img src="https://github.com/indeterminatedesign/3D-Printed-Doggie-Wheelchair/blob/main/Picture.PNG" alt="Wheelchair Picture"  width="800" 
